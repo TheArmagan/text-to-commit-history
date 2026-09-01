@@ -4,9 +4,10 @@ Draws text on your GitHub contribution graph. It renders what you type into the 
 
 The text is scaled to the largest size that fits: seven rows tall including descenders, and no wider than the weeks you have left.
 
-![Hello World](https://user-images.githubusercontent.com/7780269/57891608-3e096d00-7851-11e9-8e6c-6f58534ba3f5.png)
+<img width="913" height="207" alt="image" src="https://github.com/user-attachments/assets/1b81b21a-84a1-4540-bc11-fc5ec83ea865" />
 
-That is "Hello World" on a real profile.
+
+That is "SIX SEVEN" on a real profile.
 
 ## Requirements
 
